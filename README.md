@@ -50,4 +50,6 @@ Here are some ideas to get you started:
 
 # 📫 CONTACTS
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&link)](mailto:jmin4369@gmail.com)
+[![Marmian.com](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)](http://marmian.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jmin4369@gmail.com)
+[![Naver mail](https://img.shields.io/badge/Naver-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white)](mailto:min4369@naver.com)
