@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marmian)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marmian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marmian)](https://github.com/anuraghazra/github-readme-stats)
 
