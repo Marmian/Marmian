@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 </a>
 
 
-# SKILLS
-Platforms & Languages
+# 💪 SKILLS
+💻 Platforms & Languages
 
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
 
-Tools
+🛠 Tools
 
-# CONTACTS
+# 📫 CONTACTS
